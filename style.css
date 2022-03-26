@@ -33,7 +33,8 @@
     transform: translate(-50%,-50%);
   } 
   .navbar-dark {
-    color: white;
+    background-color: black; 
+    width: 100%;
 } 
 
 .row-con{
